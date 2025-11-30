@@ -1,4 +1,3 @@
-# Titanic-Passenger-Survival-Prediction
 # Random Forest — Titanic Survival Prediction
 
 A short project that uses a **Random Forest Classifier** to predict whether a passenger survived the Titanic disaster.
